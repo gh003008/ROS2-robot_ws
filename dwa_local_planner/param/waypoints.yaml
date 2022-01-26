@@ -1,0 +1,7 @@
+/**: # namespace and node name
+  ros__parameters:
+    num_waypoints: 4
+    waypoint_1: [8.58, 2.5]
+    waypoint_2: [2.5, 8.58]
+    waypoint_3: [2.5, 2.5]
+    waypoint_4: [8.58, 8.58]
