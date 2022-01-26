@@ -1,0 +1,18 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/home/leegunhee1/robot_ws/build/turtle_hw_1",
+    "/home/leegunhee1/robot_ws/install/turtle_hw_1/lib/python3.6/site-packages",
+    "/home/leegunhee1/robot_ws/install/msg_srv_action_interface/lib/python3.6/site-packages",
+    "/home/leegunhee1/robot_ws/build/dwa_local_planner",
+    "/home/leegunhee1/robot_ws/install/dwa_local_planner/lib/python3.6/site-packages",
+    "/opt/ros/dashing/lib/python3.6/site-packages"
+  ],
+  "python.analysis.extraPaths": [
+    "/home/leegunhee1/robot_ws/build/turtle_hw_1",
+    "/home/leegunhee1/robot_ws/install/turtle_hw_1/lib/python3.6/site-packages",
+    "/home/leegunhee1/robot_ws/install/msg_srv_action_interface/lib/python3.6/site-packages",
+    "/home/leegunhee1/robot_ws/build/dwa_local_planner",
+    "/home/leegunhee1/robot_ws/install/dwa_local_planner/lib/python3.6/site-packages",
+    "/opt/ros/dashing/lib/python3.6/site-packages"
+  ]
+}
